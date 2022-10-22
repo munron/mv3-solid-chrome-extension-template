@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  h1 {
+    @apply text-[16px] font-bold leading-[20px];
+  }
+}
