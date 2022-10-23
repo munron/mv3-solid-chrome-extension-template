@@ -3,3 +3,7 @@ dist
 media
 .DS_Store
 yarn.lock
+.env
+yarn-error.log
+dist.crx
+dist.pem
